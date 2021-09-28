@@ -1,0 +1,3 @@
+Brown_spot
+Bacterial_leaf_blight
+Leaf_smut

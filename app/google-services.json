@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078100210804",
+    "firebase_url": "https://rice-leaf-diseases.firebaseio.com",
+    "project_id": "rice-leaf-diseases",
+    "storage_bucket": "rice-leaf-diseases.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078100210804:android:c067c5101106b2c09b0d21",
+        "android_client_info": {
+          "package_name": "com.arifpurnama.rilestor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078100210804-c864drn1opekbfiniar0krgal26du38i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2VCLrq9aNz97YxuYyy7xaKczqe8hyj9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078100210804-c864drn1opekbfiniar0krgal26du38i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
